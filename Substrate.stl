@@ -1,0 +1,86 @@
+solid Snake/substrate:substrate
+  facet normal 1.000000e+00 0.000000e+00 0.000000e+00
+    outer loop
+      vertex -5.000000e+01 2.708000e+02 1.249992e+02
+      vertex -5.000000e+01 2.700000e+02 1.249992e+02
+      vertex 5.000000e+01 2.708000e+02 1.249992e+02
+    endloop
+  endfacet
+  facet normal 1.000000e+00 0.000000e+00 0.000000e+00
+    outer loop
+      vertex 5.000000e+01 2.708000e+02 1.249992e+02
+      vertex -5.000000e+01 2.700000e+02 1.249992e+02
+      vertex 5.000000e+01 2.700000e+02 1.249992e+02
+    endloop
+  endfacet
+  facet normal -1.000000e+00 0.000000e+00 0.000000e+00
+    outer loop
+      vertex 5.000000e+01 2.708000e+02 -1.250008e+02
+      vertex 5.000000e+01 2.700000e+02 -1.250008e+02
+      vertex -5.000000e+01 2.708000e+02 -1.250008e+02
+    endloop
+  endfacet
+  facet normal -1.000000e+00 0.000000e+00 0.000000e+00
+    outer loop
+      vertex -5.000000e+01 2.708000e+02 -1.250008e+02
+      vertex 5.000000e+01 2.700000e+02 -1.250008e+02
+      vertex -5.000000e+01 2.700000e+02 -1.250008e+02
+    endloop
+  endfacet
+  facet normal -0.000000e+00 0.000000e+00 0.000000e+00
+    outer loop
+      vertex 5.000000e+01 2.700000e+02 1.249992e+02
+      vertex 5.000000e+01 2.700000e+02 -1.250008e+02
+      vertex 5.000000e+01 2.708000e+02 1.249992e+02
+    endloop
+  endfacet
+  facet normal -0.000000e+00 0.000000e+00 0.000000e+00
+    outer loop
+      vertex 5.000000e+01 2.708000e+02 1.249992e+02
+      vertex 5.000000e+01 2.700000e+02 -1.250008e+02
+      vertex 5.000000e+01 2.708000e+02 -1.250008e+02
+    endloop
+  endfacet
+  facet normal -0.000000e+00 0.000000e+00 0.000000e+00
+    outer loop
+      vertex -5.000000e+01 2.700000e+02 1.249992e+02
+      vertex -5.000000e+01 2.700000e+02 -1.250008e+02
+      vertex 5.000000e+01 2.700000e+02 1.249992e+02
+    endloop
+  endfacet
+  facet normal -0.000000e+00 0.000000e+00 0.000000e+00
+    outer loop
+      vertex 5.000000e+01 2.700000e+02 1.249992e+02
+      vertex -5.000000e+01 2.700000e+02 -1.250008e+02
+      vertex 5.000000e+01 2.700000e+02 -1.250008e+02
+    endloop
+  endfacet
+  facet normal -0.000000e+00 0.000000e+00 0.000000e+00
+    outer loop
+      vertex -5.000000e+01 2.708000e+02 1.249992e+02
+      vertex -5.000000e+01 2.708000e+02 -1.250008e+02
+      vertex -5.000000e+01 2.700000e+02 1.249992e+02
+    endloop
+  endfacet
+  facet normal -0.000000e+00 0.000000e+00 0.000000e+00
+    outer loop
+      vertex -5.000000e+01 2.700000e+02 1.249992e+02
+      vertex -5.000000e+01 2.708000e+02 -1.250008e+02
+      vertex -5.000000e+01 2.700000e+02 -1.250008e+02
+    endloop
+  endfacet
+  facet normal -0.000000e+00 0.000000e+00 0.000000e+00
+    outer loop
+      vertex 5.000000e+01 2.708000e+02 1.249992e+02
+      vertex 5.000000e+01 2.708000e+02 -1.250008e+02
+      vertex -5.000000e+01 2.708000e+02 1.249992e+02
+    endloop
+  endfacet
+  facet normal -0.000000e+00 0.000000e+00 0.000000e+00
+    outer loop
+      vertex -5.000000e+01 2.708000e+02 1.249992e+02
+      vertex 5.000000e+01 2.708000e+02 -1.250008e+02
+      vertex -5.000000e+01 2.708000e+02 -1.250008e+02
+    endloop
+  endfacet
+endsolid Snake/substrate:substrate
